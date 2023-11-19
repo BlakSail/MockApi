@@ -1,0 +1,274 @@
+[
+    {
+        "id": null,
+        "arabicName": "",
+        "englishName": "Sonic Sports Academy",
+        "description": "",
+        "city": {
+            "id": "21",
+            "governorate_id": "1",
+            "city_name_ar": "المعادى",
+            "city_name_en": "Maadi"
+        },
+        "isFeatured": true,
+        "email": "sonic.sports.academy@gmail.com",
+        "mobile1": "01129090203",
+        "mobile2": "",
+        "address": "Maadi",
+        "coordinates": "29.9712348,31.3275662",
+        "logo": "https://iili.io/HM4HD9p.png",
+        "images": [
+            {
+                "image_id": 1,
+                "image_url": "https://iili.io/HM4HgwP.md.jpg"
+            },
+            {
+                "image_id": 2,
+                "image_url": "https://iili.io/HM4HVuS.md.jpg"
+            },
+            {
+                "image_id": 3,
+                "image_url": "https://iili.io/HM4HS9V.md.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "id": 4,
+                "name": "Gym",
+                "logo_url": "",
+                "iconCode": 57997
+            }
+        ],
+        "branches": null,
+        "openAt": "09:00 AM",
+        "closeAt": "03:00 PM",
+        "rating": 1.0
+    },
+    {
+        "id": null,
+        "arabicName": "",
+        "englishName": "Star Maker Swimming Academy",
+        "description": "",
+        "city": {
+            "id": "21",
+            "governorate_id": "1",
+            "city_name_ar": "المعادى",
+            "city_name_en": "Maadi"
+        },
+        "isFeatured": true,
+        "email": "mail@gmail.com",
+        "mobile1": "01142930022",
+        "mobile2": "",
+        "address": "Maadi",
+        "coordinates": "29.9716134,31.2712672",
+        "logo": "https://iili.io/HM4J9oX.png",
+        "images": [
+            {
+                "image_id": 1,
+                "image_url": "https://iili.io/HM4Hjne.md.jpg"
+            },
+            {
+                "image_id": 2,
+                "image_url": "https://iili.io/HM4HWw7.md.jpg"
+            },
+            {
+                "image_id": 3,
+                "image_url": "https://iili.io/HM4JJPs.md.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "id": 1,
+                "name": "Swimming",
+                "logo_url": "",
+                "iconCode": 58588
+            },
+            {
+                "id": 3,
+                "name": "Tennis",
+                "logo_url": "",
+                "iconCode": 58867
+            },
+            {
+                "id": 4,
+                "name": "Gym",
+                "logo_url": "",
+                "iconCode": 57997
+            }
+        ],
+        "branches": null,
+        "openAt": "09:00 AM",
+        "closeAt": "04:00 PM",
+        "rating": 1.5
+    },
+    {
+        "id": null,
+        "arabicName": "",
+        "englishName": "Sparkle Sports Academy",
+        "description": "",
+        "city": {
+            "id": "17",
+            "governorate_id": "1",
+            "city_name_ar": "القاهرة الجديدة",
+            "city_name_en": "New Cairo"
+        },
+        "isFeatured": true,
+        "email": "mail@gmail.com",
+        "mobile1": "0109 6813310",
+        "mobile2": "0100 9527949",
+        "address": "New Cairo 1",
+        "coordinates": "30.016848,31.4631297",
+        "logo": "https://iili.io/HM4HbAN.png",
+        "images": [
+            {
+                "image_id": 1,
+                "image_url": "https://iili.io/HM4HeFj.md.jpg"
+            },
+            {
+                "image_id": 2,
+                "image_url": "https://iili.io/HM4Hv8Q.md.jpg"
+            },
+            {
+                "image_id": 3,
+                "image_url": "https://iili.io/HM4HUAB.md.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "id": 1,
+                "name": "Swimming",
+                "logo_url": "",
+                "iconCode": 58588
+            }
+        ],
+        "branches": [
+            {
+                "id": null,
+                "nameArabic": "",
+                "nameEnglish": "",
+                "descriptionArabic": "",
+                "descriptionEnglish": "",
+                "address": "214 Ahmead Orabey-Haroun Al Rasheeed-18, New Cairo 1, Cairo Governorate 11835, Egypt",
+                "city": {
+                    "id": "17",
+                    "governorate_id": "1",
+                    "city_name_ar": "القاهرة الجديدة",
+                    "city_name_en": "New Cairo"
+                },
+                "email": null,
+                "mobile1": "0225414789",
+                "mobile2": null,
+                "coordinates": "29.9925374,31.4211626"
+            }
+        ],
+        "openAt": "09:00 AM",
+        "closeAt": "04:00 PM",
+        "rating": 2.5
+    },
+    {
+        "id": null,
+        "arabicName": "",
+        "englishName": "Sports Planet",
+        "description": "",
+        "city": {
+            "id": "21",
+            "governorate_id": "1",
+            "city_name_ar": "المعادى",
+            "city_name_en": "Maadi"
+        },
+        "isFeatured": false,
+        "email": "mail@gmail.com",
+        "mobile1": "01550828391",
+        "mobile2": "",
+        "address": "Maadi",
+        "coordinates": null,
+        "logo": "https://iili.io/HM4Hptt.png",
+        "images": [
+            {
+                "image_id": 1,
+                "image_url": "https://iili.io/HM4H6oF.md.jpg"
+            },
+            {
+                "image_id": 2,
+                "image_url": "https://iili.io/HM4HLKJ.md.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "id": 1,
+                "name": "Swimming",
+                "logo_url": "",
+                "iconCode": 58588
+            },
+            {
+                "id": 4,
+                "name": "Gym",
+                "logo_url": "",
+                "iconCode": 57997
+            }
+        ],
+        "branches": null,
+        "openAt": "09:00 AM",
+        "closeAt": "04:00 PM",
+        "rating": 4.5
+    },
+    {
+        "id": null,
+        "arabicName": "",
+        "englishName": "SC. future Academy",
+        "description": "",
+        "city": {
+            "id": "17",
+            "governorate_id": "1",
+            "city_name_ar": "القاهرة الجديدة",
+            "city_name_en": "New Cairo"
+        },
+        "isFeatured": false,
+        "email": "mail@gmail.com",
+        "mobile1": "01001131875",
+        "mobile2": "",
+        "address": "New Cairo 1",
+        "coordinates": "30.0001535,31.4107465",
+        "logo": "https://iili.io/HM4HQcv.png",
+        "images": [
+            {
+                "image_id": 1,
+                "image_url": "https://iili.io/HM4HPMg.md.jpg"
+            },
+            {
+                "image_id": 2,
+                "image_url": "https://iili.io/HM4HmNI.md.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "id": 1,
+                "name": "Swimming",
+                "logo_url": "",
+                "iconCode": 58588
+            },
+            {
+                "id": 2,
+                "name": "Football",
+                "logo_url": "",
+                "iconCode": 58866
+            },
+            {
+                "id": 3,
+                "name": "Tennis",
+                "logo_url": "",
+                "iconCode": 58867
+            },
+            {
+                "id": 4,
+                "name": "Gym",
+                "logo_url": "",
+                "iconCode": 57997
+            }
+        ],
+        "branches": null,
+        "openAt": "09:00 AM",
+        "closeAt": "04:00 PM",
+        "rating": 5.0
+    }
+]

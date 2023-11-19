@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Swimming",
+        "logo_url": "",
+        "iconCode": 58588
+    },
+    {
+        "id": 2,
+        "name": "Football",
+        "logo_url": "",
+        "iconCode": 58866
+    },
+    {
+        "id": 3,
+        "name": "Tennis",
+        "logo_url": "",
+        "iconCode": 58867
+    },
+    {
+        "id": 4,
+        "name": "Gym",
+        "logo_url": "",
+        "iconCode": 57997
+    }
+]
