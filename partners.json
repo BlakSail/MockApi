@@ -1,6 +1,6 @@
 [
     {
-        "id": null,
+        "id": 1,
         "arabicName": "",
         "englishName": "Sonic Sports Academy",
         "description": "",
@@ -33,10 +33,22 @@
         ],
         "activities": [
             {
-                "id": 4,
-                "name": "Gym",
-                "logo_url": "",
-                "iconCode": 57997
+                "id": 6,
+                "name": "Boxing",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/boxing.png",
+                "iconCode": 58588
+            },
+            {
+                "id": 7,
+                "name": "HandBall",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/handball.png",
+                "iconCode": 58588
+            },
+            {
+                "id": 8,
+                "name": "Karate",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/karate.png",
+                "iconCode": 58588
             }
         ],
         "branches": null,
@@ -45,7 +57,7 @@
         "rating": 1.0
     },
     {
-        "id": null,
+        "id": 2,
         "arabicName": "",
         "englishName": "Star Maker Swimming Academy",
         "description": "",
@@ -80,20 +92,32 @@
             {
                 "id": 1,
                 "name": "Swimming",
-                "logo_url": "",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/swimming.png",
                 "iconCode": 58588
+            },
+            {
+                "id": 2,
+                "name": "Football",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/football.png",
+                "iconCode": 58866
             },
             {
                 "id": 3,
                 "name": "Tennis",
-                "logo_url": "",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/tennis.png",
                 "iconCode": 58867
             },
             {
                 "id": 4,
                 "name": "Gym",
-                "logo_url": "",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/gymnastics.png",
                 "iconCode": 57997
+            },
+            {
+                "id": 5,
+                "name": "BasketBall",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/basketball.png",
+                "iconCode": 58588
             }
         ],
         "branches": null,
@@ -102,7 +126,7 @@
         "rating": 1.5
     },
     {
-        "id": null,
+        "id": 3,
         "arabicName": "",
         "englishName": "Sparkle Sports Academy",
         "description": "",
@@ -135,9 +159,33 @@
         ],
         "activities": [
             {
-                "id": 1,
-                "name": "Swimming",
-                "logo_url": "",
+                "id": 3,
+                "name": "Tennis",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/tennis.png",
+                "iconCode": 58867
+            },
+            {
+                "id": 4,
+                "name": "Gym",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/gymnastics.png",
+                "iconCode": 57997
+            },
+            {
+                "id": 8,
+                "name": "Karate",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/karate.png",
+                "iconCode": 58588
+            },
+            {
+                "id": 9,
+                "name": "MMA",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/mma.png",
+                "iconCode": 58588
+            },
+            {
+                "id": 10,
+                "name": "Yoga",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/yoga.png",
                 "iconCode": 58588
             }
         ],
@@ -166,7 +214,7 @@
         "rating": 2.5
     },
     {
-        "id": null,
+        "id": 4,
         "arabicName": "",
         "englishName": "Sports Planet",
         "description": "",
@@ -197,14 +245,26 @@
             {
                 "id": 1,
                 "name": "Swimming",
-                "logo_url": "",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/swimming.png",
                 "iconCode": 58588
+            },
+            {
+                "id": 3,
+                "name": "Tennis",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/tennis.png",
+                "iconCode": 58867
             },
             {
                 "id": 4,
                 "name": "Gym",
-                "logo_url": "",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/gymnastics.png",
                 "iconCode": 57997
+            },
+            {
+                "id": 9,
+                "name": "MMA",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/mma.png",
+                "iconCode": 58588
             }
         ],
         "branches": null,
@@ -213,7 +273,7 @@
         "rating": 4.5
     },
     {
-        "id": null,
+        "id": 5,
         "arabicName": "",
         "englishName": "SC. future Academy",
         "description": "",
@@ -244,26 +304,62 @@
             {
                 "id": 1,
                 "name": "Swimming",
-                "logo_url": "",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/swimming.png",
                 "iconCode": 58588
             },
             {
                 "id": 2,
                 "name": "Football",
-                "logo_url": "",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/football.png",
                 "iconCode": 58866
             },
             {
                 "id": 3,
                 "name": "Tennis",
-                "logo_url": "",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/tennis.png",
                 "iconCode": 58867
             },
             {
                 "id": 4,
                 "name": "Gym",
-                "logo_url": "",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/gymnastics.png",
                 "iconCode": 57997
+            },
+            {
+                "id": 5,
+                "name": "BasketBall",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/basketball.png",
+                "iconCode": 58588
+            },
+            {
+                "id": 6,
+                "name": "Boxing",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/boxing.png",
+                "iconCode": 58588
+            },
+            {
+                "id": 7,
+                "name": "HandBall",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/handball.png",
+                "iconCode": 58588
+            },
+            {
+                "id": 8,
+                "name": "Karate",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/karate.png",
+                "iconCode": 58588
+            },
+            {
+                "id": 9,
+                "name": "MMA",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/mma.png",
+                "iconCode": 58588
+            },
+            {
+                "id": 10,
+                "name": "Yoga",
+                "logo_url": "https://raw.githubusercontent.com/BlakSail/MockApi/main/activities/yoga.png",
+                "iconCode": 58588
             }
         ],
         "branches": null,
